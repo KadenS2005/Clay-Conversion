@@ -1,9 +1,11 @@
 modLoader="javafml" #mandatory
 loaderVersion="[25,)" #mandatory (24 is current forge version)
+issueTrackerURL="https://github.com/KadenS2005/Clay-Conversion/issues" 
 [[mods]] #mandatory
 	modId="clayconversion" #mandatory
-	version="1.3" #mandatory
+	version="1.4" #mandatory
 	displayName="Clay Conversion" #mandatory
+  	updateJSONURL="https://raw.githubusercontent.com/KadenS2005/Clay-Conversion/master/update.json"
 	displayURL="https://www.curseforge.com/minecraft/mc-mods/clay-conversion" #optional
 	logoFile="clayball.png" #optional
 	credits="" #optional
