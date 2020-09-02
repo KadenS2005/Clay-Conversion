@@ -1,10 +1,11 @@
 {
   "conditions": [
         {
-			"type": "clayconversion:glowstone_recipe",
-			"enabled": true
+            "type": "clayconversion:enabled",
+            "recipe": "glowstone",
+            "enabled": true
         }
-    ],
+  ],
   "type": "minecraft:crafting_shaped",
   "pattern": [
     "#"

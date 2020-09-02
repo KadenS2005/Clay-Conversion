@@ -1,8 +1,9 @@
 {
   "conditions": [
         {
-            "type": "clayconversion:snow_recipe",
-			"enabled": true
+            "type": "clayconversion:enabled",
+            "recipe": "snow",
+            "enabled": true
         }
     ],
   "type": "minecraft:crafting_shaped",

@@ -1,7 +1,8 @@
 {
   "conditions": [
         {
-            "type": "clayconversion:clay_recipe",
+            "type": "clayconversion:enabled",
+            "recipe": "clay",
             "enabled": true
         }
     ],
